@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Chappy CLI
+# Chappy CLI
 
 <img src="/images/chappy_icon.png" width="200" height="200" alt="Chappy CLI Banner" />
 

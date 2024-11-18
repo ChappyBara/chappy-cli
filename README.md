@@ -2,7 +2,7 @@
 
 # 🤖 Chappy CLI
 
-<img src="/images/chappy_icon.png" alt="Chappy CLI Banner" />
+<img src="/images/chappy_icon.png" width="200" height="200" alt="Chappy CLI Banner" />
 
 ### Supercharge Your Browser Automation Deployment 🚀
 

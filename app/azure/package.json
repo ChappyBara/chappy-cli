@@ -1,0 +1,17 @@
+{
+    "name": "Your scraper name here 🧹",
+    "version": "1.0.0",
+    "description": "A scraper built by Chappy 🛠️",
+    "main": "scraper.js",
+    "scripts": {
+        "start": "node scraper.js"
+    },
+    "author": "Your Name 🤖",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.19.2",
+        "fastify": "^4.26.2",
+        "playwright": "^1.43.1"
+    }
+}

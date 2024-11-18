@@ -147,7 +147,7 @@ We love contributions! Thank you for considering contributing to Chappy CLI!
 
 ### Code of Conduct
 
-Our project adheres to a Code of Conduct that we expect all participants to follow. Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
+Our project adheres to a Code of Conduct that we expect all participants to follow.
 
 ### How to Contribute
 

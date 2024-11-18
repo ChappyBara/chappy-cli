@@ -34,6 +34,7 @@ Before you begin, ensure you have these tools installed:
 - ☁️ AWS CLI (for AWS deployments)
 - 🌐 Azure CLI (for Azure deployments)
 - 🏗️ AWS CDK (for AWS deployments)
+- 🌍 Google Cloud SDK (for GCP deployments)
 
 ## 💻 Installation
 

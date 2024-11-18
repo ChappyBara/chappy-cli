@@ -53,7 +53,7 @@ chappy init
 This interactive wizard will guide you through:
 - 📝 Project naming
 - 🔧 Framework selection (Selenium/Playwright/Puppeteer)
-- ☁️ Cloud provider choice (AWS/Azure)
+- ☁️ Cloud provider choice (AWS/Azure/GCP)
 - 📁 Project scaffolding
 
 ### 2️⃣ Build Your Project
